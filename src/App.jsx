@@ -4,6 +4,7 @@ import LandingPage from './components/LandingPage';
 import Marrquee from './components/Marrquee';
 import About from './components/About';
 import Eyes from './components/Eyes';
+import Features from './components/Features';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Marrquee />
       <About />
       <Eyes />
+      <Features />
     </div>
   )
 }
