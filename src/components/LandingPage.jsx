@@ -5,7 +5,7 @@ function LandingPage() {
   return (
     <div className="w-full h-screen bg-zinc-900 pt-1">
         <div className="textstructure mt-32  px-20">
-            {["We Create", "Eye-Opening", "Presentations"].map((item, index)=>{
+            {["We Create", "Eye-Opening", "presentations"].map((item, index)=>{
                 return (
                      <div className="masker">
                         <div className="w-fit flex items-end overflow-hidden ">
